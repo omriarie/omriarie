@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on: A marketplace website using FastAPI for the backend, PostgreSQL for the database, and JavaScript, HTML, and CSS for the frontend. I plan to deploy it using AWS in the future.<br>🌱 I’m currently learning: AWS deployment and advanced JavaScript features for more dynamic web applications.<br>💬 Ask me about:<br>Backend development with FastAPI and MongoDB<br>Implementing scalable client-server architectures in Python<br>Advanced mathematical algorithms and problem-solving<br>Game development with OOP principles in Python and unit testing for reliable software<br>⚡ Fun fact:<br>I love building complex systems from the ground up, whether it's a multiplayer trivia game or a domino game with different player strategies—all while making sure everything runs smoothly with multithreading and unit tests!
+🔭 I’m currently working on:
+A marketplace website using FastAPI for the backend, PostgreSQL for the database, and JavaScript, HTML, and CSS for the frontend. I plan to deploy it using AWS in the future.
+
+🌱 I’m currently learning:
+AWS deployment and advanced JavaScript features for more dynamic web applications.
+
+💬 Ask me about:
+- Backend development with FastAPI and MongoDB
+- Implementing scalable client-server architectures in Python
+- Advanced mathematical algorithms and problem-solving
+- Game development with OOP principles in Python and unit testing for reliable software
+
+⚡ Fun fact:
+I love building complex systems from the ground up, whether it's a multiplayer trivia game or a domino game with different player strategies—all while making sure everything runs smoothly with multithreading and unit tests!
 
 
 ## 🌐 Socials:
