@@ -1,12 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on:
-A marketplace website using FastAPI for the backend, PostgreSQL for the database, and JavaScript, HTML, and CSS for the frontend. I plan to deploy it using AWS in the future.
 
 🌱 I’m currently learning:
-AWS deployment and advanced JavaScript features for more dynamic web applications.
+Deep learning with PyTorch Lightning
 
 💬 Ask me about:
-- Backend development with FastAPI and MongoDB
+- Backend development with FastAPI and NoSQL databases (MongoDB, DynamoDB)
 - Implementing scalable client-server architectures in Python
 - Advanced mathematical algorithms and problem-solving
 - Game development with OOP principles in Python and unit testing for reliable software
